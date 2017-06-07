@@ -1,0 +1,9 @@
+Productos
+{"nameProduct":"Prueba 1","descProduct":"Prodcuto Koperca 1"}
+{"nameProduct":"Prueba 2","descProduct":"Producto Koperca 2"}
+
+Cliente
+{"nameClient":"Koperca","adressClient":"Maracay - Eslovenia","phoneClient":"12345"}
+
+Factura
+{"idClient":1,"dateInvoice":"2017-04-29","invoiceDetails":[{"codeProduct":"2","quantityProduct":3,"amountProduct":3.0},{"codeProduct":"1","quantityProduct":7,"amountProduct":7.0}]}
